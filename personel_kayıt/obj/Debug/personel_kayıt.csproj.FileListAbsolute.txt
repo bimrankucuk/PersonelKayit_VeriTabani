@@ -1,0 +1,20 @@
+C:\Users\Bayram İmran Küçük\Source\Repos\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe.config
+C:\Users\Bayram İmran Küçük\Source\Repos\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe
+C:\Users\Bayram İmran Küçük\Source\Repos\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.pdb
+C:\Users\Bayram İmran Küçük\Source\Repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.AssemblyReference.cache
+C:\Users\Bayram İmran Küçük\Source\Repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Form1.resources
+C:\Users\Bayram İmran Küçük\Source\Repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Properties.Resources.resources
+C:\Users\Bayram İmran Küçük\Source\Repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.GenerateResource.cache
+C:\Users\Bayram İmran Küçük\Source\Repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.CoreCompileInputs.cache
+C:\Users\Bayram İmran Küçük\Source\Repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.exe
+C:\Users\Bayram İmran Küçük\Source\Repos\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.pdb
+C:\Users\Bayram İmran Küçük\Desktop\C#\udemy c#\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe.config
+C:\Users\Bayram İmran Küçük\Desktop\C#\udemy c#\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe
+C:\Users\Bayram İmran Küçük\Desktop\C#\udemy c#\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.pdb
+C:\Users\Bayram İmran Küçük\Desktop\C#\udemy c#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.AssemblyReference.cache
+C:\Users\Bayram İmran Küçük\Desktop\C#\udemy c#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Form1.resources
+C:\Users\Bayram İmran Küçük\Desktop\C#\udemy c#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Properties.Resources.resources
+C:\Users\Bayram İmran Küçük\Desktop\C#\udemy c#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.GenerateResource.cache
+C:\Users\Bayram İmran Küçük\Desktop\C#\udemy c#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.CoreCompileInputs.cache
+C:\Users\Bayram İmran Küçük\Desktop\C#\udemy c#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.exe
+C:\Users\Bayram İmran Küçük\Desktop\C#\udemy c#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.pdb
